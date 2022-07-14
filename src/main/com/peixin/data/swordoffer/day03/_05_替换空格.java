@@ -1,4 +1,4 @@
-package com.peixin.data.offer.day03;
+package com.peixin.data.swordoffer.day03;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.peixin.data.offer.day01;
+package com.peixin.data.swordoffer.day01;
 
 
 import java.util.Stack;

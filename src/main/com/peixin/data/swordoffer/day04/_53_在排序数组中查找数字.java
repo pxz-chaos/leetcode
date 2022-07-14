@@ -1,9 +1,8 @@
-package com.peixin.data.offer.day04;
+package com.peixin.data.swordoffer.day04;
 
 import org.junit.Test;
 
 import java.util.HashMap;
-import java.util.Map;
 
 /**
  * @ClassName _53_在排序数组中查找数字

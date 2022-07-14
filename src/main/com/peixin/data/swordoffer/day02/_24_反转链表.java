@@ -1,4 +1,4 @@
-package com.peixin.data.offer.day02;
+package com.peixin.data.swordoffer.day02;
 
 public class _24_反转链表 {
     public ListNode reverseList(ListNode head) {
