@@ -1,4 +1,4 @@
-package com.peixin.data.structure;
+package com.peixin.data.structure.day03;
 
 import java.util.ArrayList;
 import java.util.Arrays;

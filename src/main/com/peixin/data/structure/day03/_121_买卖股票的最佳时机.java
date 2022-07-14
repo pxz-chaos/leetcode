@@ -1,4 +1,4 @@
-package com.peixin.data.structure.day02;
+package com.peixin.data.structure.day03;
 
 import org.junit.Test;
 
