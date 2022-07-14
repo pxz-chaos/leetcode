@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/Peixin/DataStructures_mj/datastructures/src/13-优先级队列/13-优先级队列.iml" filepath="F:/Peixin/DataStructures_mj/datastructures/src/13-优先级队列/13-优先级队列.iml" />
+      <module fileurl="file://F:/Peixin/DataStructures_mj/datastructures/datastructures.iml" filepath="F:/Peixin/DataStructures_mj/datastructures/datastructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
+    </modules>
+  </component>
+</project>
